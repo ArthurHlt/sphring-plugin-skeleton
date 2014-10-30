@@ -1,6 +1,7 @@
 {
     "name": "arthurh/sphring-plugin-skeleton",
     "description": "This a skeleton to make a sphring plugin",
+    "type": "project",
     "require": {
         "composer/composer": "1.0.0-alpha8",
         "arthurh/sphring": "~0.9"
