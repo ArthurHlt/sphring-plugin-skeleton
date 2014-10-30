@@ -1,0 +1,15 @@
+{
+    "name": "arthurh/sphring-plugin-skeleton",
+    "description": "This a skeleton to make a sphring plugin",
+    "require": {
+        "composer/composer": "1.0.0-alpha8",
+        "arthurh/sphring": "~0.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arthur Halet",
+            "email": "arthur.halet@orange.com"
+        }
+    ]
+}
