@@ -11,5 +11,20 @@
             "name": "Arthur Halet",
             "email": "arthur.halet@orange.com"
         }
-    ]
+    ],
+    "extra": {
+        "sphring": {
+            "extend": {
+                "beanProperty": [],
+                "annotationClass": [],
+                "beanType": []
+            },
+            "isPlugin": true
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
 }
