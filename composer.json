@@ -18,7 +18,8 @@
             "extend": {
                 "beanProperty": [],
                 "annotationClass": [],
-                "beanType": []
+                "beanType": [],
+                "sphringGlobal": []
             },
             "isPlugin": true
         }
