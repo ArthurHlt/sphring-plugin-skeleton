@@ -1,0 +1,3 @@
+<?php
+$pluginName = "MyPlugin";
+$namespace = "\\";
