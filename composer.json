@@ -3,8 +3,7 @@
   "description": "This a skeleton to make a sphring plugin",
   "type": "project",
   "require": {
-    "composer/composer": "1.0.0-alpha9",
-    "sphring/sphring": "~0.10"
+    "sphring/sphring": "~0.11"
   },
   "require-dev": {
     "phpunit/phpunit": "*",
